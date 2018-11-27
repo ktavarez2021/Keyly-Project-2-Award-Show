@@ -1,0 +1,24 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    color:yellow;
+    font-size:50px;
+    text-align:center;
+    background:url("https://scotweb-objects.com/images/tdesign/gallery/31771.jpg");
+}
+img{
+    width:450px;
+    border:40px groove white;
+    text-align:center;
+}
+a{
+    font-size:15px;
+    text-align:center;
+    color:yellow;
+}
+ul{
+    font-size:20px;
+    text-align:center;
+}
+.nom{
+    color:lightblue;
+}
